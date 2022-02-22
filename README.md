@@ -13,7 +13,7 @@
   </td>
   <td align="center">
     <a href="">
-      <img src="https://m.nas-portal.com/images/65/aef005381362623f98b1a05d07ef9401.JPEG" width="20%" height="20%">
+      <img src="https://m.nas-portal.com/images/65/aef005381362623f98b1a05d07ef9401.JPEG" width="30%" height="30%">
       <p>阿里云存储掌门人：吴结生</p>
     </a>
   </td>
