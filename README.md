@@ -17,13 +17,38 @@
       <p>阿里云存储掌门人：吴结生</p>
     </a>
   </td>
-    <td align="center">
+  <td align="center">
     <a href="">
       <img src="https://user-images.githubusercontent.com/87457873/155145175-4041efaf-a047-4428-8dfc-fda650d43a8a.png" width="30%" height="30%">
       <p>阿里云：吴翰清</p>
     </a>
   </td>
+    <td align="center">
+    <a href="">
+      <img src="https://user-images.githubusercontent.com/87457873/155145603-61ed8cd5-b8a4-4184-98e9-48a8b52637cc.png" width="40%" height="40%">
+      <p>淘宝网：林昊</p>
+    </a>
+  </td>
+    </td>
+    <td align="center">
+    <a href="">
+      <img src="https://user-images.githubusercontent.com/87457873/155145924-3cfa6a9d-3762-43f6-9dbf-26117a0b8634.png" width="60%" height="60%">
+      <p>行癫—张建峰</p>
+    </a>
+  </td>
+  </tr><tr>
+  <td align="center">
+    <a href="https://baike.baidu.com/item/%E8%94%A1%E6%99%AF%E7%8E%B0/16432698">
+      <img src="https://user-images.githubusercontent.com/87457873/155146310-d9ea944b-ffca-4d35-9687-8063e6f40861.png" width="30%" height="30%">
+      <p>东邪：吴咏铭</p>
+    </a>
+  </td>
+  
 
+  
+  
+  
+  
 </table>
 
 
