@@ -11,7 +11,18 @@
       <p>“扫地僧”：蔡景现</p>
     </a>
   </td>
-
+  <td align="center">
+    <a href="">
+      <img src="https://m.nas-portal.com/images/65/aef005381362623f98b1a05d07ef9401.JPEG" width="20%" height="20%">
+      <p>阿里云存储掌门人：吴结生</p>
+    </a>
+  </td>
+    <td align="center">
+    <a href="">
+      <img src="https://user-images.githubusercontent.com/87457873/155145175-4041efaf-a047-4428-8dfc-fda650d43a8a.png" width="30%" height="30%">
+      <p>阿里云：吴翰清</p>
+    </a>
+  </td>
 
 </table>
 
