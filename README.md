@@ -2,6 +2,9 @@
 
 ## 1. 大厂高管技术型
 ### 阿里技术大牛
+
+![image](https://user-images.githubusercontent.com/87457873/155135060-1706312e-a4e9-4aa4-9fb4-81474600091a.png)
+
 #### [“扫地僧”：蔡景现](https://baike.baidu.com/item/%E8%94%A1%E6%99%AF%E7%8E%B0/16432698)
 
 ### 腾讯技术大牛
