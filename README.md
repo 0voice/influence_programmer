@@ -76,7 +76,7 @@
       <img src="https://user-images.githubusercontent.com/87457873/155148090-812db98a-39b0-4b1a-9e9e-cef3002b15fb.png" width="30%" height="30%">
       <p>天猫副总裁：吴泽明</p>
     </a>
-  </td> 余锋
+  </td> 
   <td align="center">
     <a href="">
       <img src="https://user-images.githubusercontent.com/87457873/155148788-8cba0a75-1d69-4b7e-985a-7791f36a516f.png" width="30%" height="30%">
