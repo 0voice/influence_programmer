@@ -3,9 +3,18 @@
 ## 1. 大厂高管技术型
 ### 阿里技术大牛
 
-![image](https://user-images.githubusercontent.com/87457873/155135060-1706312e-a4e9-4aa4-9fb4-81474600091a.png)
+<table align="center">
+  </tr><tr>
+  <td align="center">
+    <a href="https://baike.baidu.com/item/%E8%94%A1%E6%99%AF%E7%8E%B0/16432698">
+      <img src="https://user-images.githubusercontent.com/87457873/155135060-1706312e-a4e9-4aa4-9fb4-81474600091a.png" width="30%" height="30%">
+      <p>“扫地僧”：蔡景现</p>
+    </a>
+  </td>
 
-#### [“扫地僧”：蔡景现](https://baike.baidu.com/item/%E8%94%A1%E6%99%AF%E7%8E%B0/16432698)
+
+</table>
+
 
 ### 腾讯技术大牛
 ### 百度
