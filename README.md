@@ -82,8 +82,120 @@
 
 ### 腾讯技术大牛
 
+<table align="center">
+  </tr><tr>
+  <td align="center">
+    <a href="">
+      <p>腾讯云容器技术专家：孟凡杰</p>
+    </a>
+  </td>
+  <td align="center">
+    <a href="">
+      <p>腾讯云容器产品技术总监：于广游</p>
+    </a>
+  </td>
+  <td align="center">
+    <a href="">
+      <p>腾讯集团云原生规划架构师：杨远洲</p>
+    </a>
+  </td>
+    <td align="center">
+    <a href="">
+      <p>CDC 高级工程师：邱锦森</p>
+    </a>
+  </td>
+    </td>
+    <td align="center">
+    <a href="">
+      <p>腾讯微信支付高级工程师：顾明</p>
+    </a>
+  </td>
+  
+  </tr><tr>
+    <td align="center">
+    <a href="">
+      <p>腾讯云存储专家研发工程师：王淼</p>
+    </a>
+  </td>
+  <td align="center">
+    <a href="">
+      <p>腾讯云存储高级研发工程师：张景锐</p>
+    </a>
+  </td>
+  <td align="center">
+    <a href="">
+      <p>腾讯云音视频技术导师：赵军</p>
+    </a>
+  </td>
+    <td align="center">
+    <a href="">
+      <p>腾讯云数据库专家工程师：伍鑫</p>
+    </a>
+  </td>
+    </td>
+    <td align="center">
+    <a href="">
+      <p></p>
+    </a>
+  </td>
+  
+  </tr><tr>
+    <td align="center">
+    <a href="">
+      <p>腾讯云高级研究员：陈铭良</p>
+    </a>
+  </td>
+  <td align="center">
+    <a href="">
+      <p>腾讯云专家工程师：兰玉龙</p>
+    </a>
+  </td>
+  <td align="center">
+    <a href="">
+      <p>腾讯云专家工程师：刘连响</p>
+    </a>
+  </td>
+    <td align="center">
+    <a href="">
+      <p>腾讯云数据库专家工程师：韩硕</p>
+    </a>
+  </td>
+    </td>
+    <td align="center">
+    <a href="">
+      <p>TME天琴实验室负责人：姜涛</p>
+    </a>
+  </td>
+</table>
 
 
+  </tr><tr>
+    <td align="center">
+    <a href="">
+      <p>腾讯云微服务团队高级解决方案构架师：赵善从</p>
+    </a>
+  </td>
+  <td align="center">
+    <a href="">
+      <p>腾讯云 CODING DevOps 高级架构师：王炜</p>
+    </a>
+  </td>
+  <td align="center">
+    <a href="">
+      <p>腾讯云Tstack首席架构师：阮贺</p>
+    </a>
+  </td>
+    <td align="center">
+    <a href="">
+      <p>腾讯云CDB/CynosDB内核架构师：赖铮</p>
+    </a>
+  </td>
+    </td>
+    <td align="center">
+    <a href="">
+      <p>腾讯云数据库技术总监：李跃森</p>
+    </a>
+  </td>
 
 
 
