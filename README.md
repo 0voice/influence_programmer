@@ -135,7 +135,7 @@
     </td>
     <td align="center">
     <a href="">
-      <p></p>
+      <p>腾讯云 CODING DevOps 架构师：杨周</p>
     </a>
   </td>
   
@@ -166,7 +166,7 @@
       <p>TME天琴实验室负责人：姜涛</p>
     </a>
   </td>
-</table>
+
 
 
   </tr><tr>
@@ -197,7 +197,7 @@
     </a>
   </td>
 
-
+</table>
 
 ### 百度
 ### 滴滴
